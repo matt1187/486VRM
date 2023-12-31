@@ -39,7 +39,7 @@ A advantage of this  486VRM interposer: switching regulator instead linear regul
 |"R3"|1|"22k"|Mouser|603-RC0805JR-0722KL|
 |"R4"|1|"430k"|Mouser|603-RC0805JR-07430KL |
 |"R5"|1|"91k"|Mouser|603-RC0805JR-0791KL |
-|"R6"|1|"100"|Mouser|603-RC0402JR-07100RL|
+|"R6"|1|"100"|Mouser|603-RC0805JR-07100RL|
 |"C4,C3,C2,C1"|4|"10µF"|Mouser|80-C1206C106M3P |
 |"C6"|1|"75pf"|Mouser|581-08051A750J|
 |"C10,C9,C8,C7,C5"|5|"0.1µF"|Mouser|581-08055C104K|
