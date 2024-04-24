@@ -48,4 +48,4 @@ A advantage of this  486VRM interposer: switching regulator instead linear regul
 
 
 # Licence
-The project is free for non-commercial reproduktion. Do not sell it on ebay or other platforms for profit. Do not make a closed source. Share your experiences and ideas with the community.
+The project is free for non-commercial reproduktion. Do not sell it on ebay or other platforms for profit. Do not make a closed source. Share your experiences and ideas with the community. CC NC BY SA
