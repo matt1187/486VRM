@@ -20,7 +20,7 @@ A advantage of this  486VRM interposer: switching regulator instead linear regul
 ![grafik](https://github.com/matt1187/486VRM/assets/155289528/72c69535-1fac-49f1-8d76-10e1ec1bf26c)![grafik](https://github.com/matt1187/486VRM/assets/155289528/73b5ebf2-bc49-44dc-86fa-6407342b29bc)
 
 # Bill of material
-[![](gerber/486VRM.csv')](#bom)
+[![Gerber data 001](https://github.com/matt1187/486VRM/blob/main/486VRM/Gerber/vrm_001.zip)
 
 
 
