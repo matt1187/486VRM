@@ -16,8 +16,14 @@ A advantage of this  486VRM interposer: switching regulator instead linear regul
 
 
 
-# Pictures
+# Pictures & how to soldering of pin
 ![grafik](https://github.com/matt1187/486VRM/assets/155289528/72c69535-1fac-49f1-8d76-10e1ec1bf26c)![grafik](https://github.com/matt1187/486VRM/assets/155289528/73b5ebf2-bc49-44dc-86fa-6407342b29bc)
+![grafik](https://github.com/user-attachments/assets/123b4d15-7852-4772-8d2f-c6b759e4cc3e)
+
+- you need solder iron with long and small chisel.
+- "solder helper hold pin (bottom) on their place.
+- very recommend: solder only one row with pin to pcb, then second row, then third row.
+
 
 # Bill of material
 [![Gerber data 001](https://github.com/matt1187/486VRM/blob/main/486VRM/Gerber/vrm_001.zip)
