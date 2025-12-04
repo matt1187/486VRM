@@ -1,6 +1,6 @@
 # Project  486VRM.
 A interposer for  3.3V 486  for using on motherboard without 3.3V regulator.
-A advantage of this  486VRM interposer: switching regulator instead linear regulator.
+A advantage of this  486VRM interposer: switching regulator instead linear regulator. -> less heating.
 
 # PCB Revision History
 - 000 initial draft
