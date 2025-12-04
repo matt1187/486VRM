@@ -43,7 +43,7 @@ A advantage of this  486VRM interposer: switching regulator instead linear regul
 |JP3|1|CLKMUL|Digikey|609-78511-203HLF-ND|
 |JP4|1|FAN|Digikey|609-78511-203HLF-ND|
 |U1|1|TPS54308DDCR|Digikey|296-47880-1-ND|
-|R1|1|50Ω|Digikey|13-RC0402JR-0750RLCT-ND |
+|R1|1|50Ω|Digikey|541-CRCW080550R0FKTACT-ND |
 |R2|1|100kΩ|Digikey|311-100KARCT-ND |
 |R3|1|22kΩ|Digikey|311-22KARCT-ND|
 |R4|1|430kΩ|Digikey|311-430KARCT-ND |
